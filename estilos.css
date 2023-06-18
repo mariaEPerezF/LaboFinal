@@ -1,0 +1,54 @@
+.group{
+
+    padding: 2% 1%;
+    text-align: center;
+    background-color: #a3a8a9;
+    margin: 0 auto;
+    width: 20%;
+    min-height: 250px;
+    color:#04649f;
+    border: 2px solid #04619b;
+    border-radius: 5px;
+
+}
+
+#consultar{
+
+    display: none;
+
+}
+
+#usuariosRegistrados{
+
+    display: none;
+
+}
+
+.error{
+
+    color: red;
+    font-weight: bold ;
+
+}
+
+.form-question{
+
+    margin: 5% 0%;
+    text-align:left;
+}
+
+.r-ok{
+
+    color: green;
+}
+
+.form-btn{
+
+    width: 120px;
+    height: 30px;
+    background-color: blue;
+    border: 1px solid blue;
+    color: white;
+    border-radius: 5px;
+    
+}
